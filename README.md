@@ -1,5 +1,5 @@
 # Vue-Study
-vue 기초 공부하기
+vue 기본예제 가지고 기초 공부하기
 ## Project setup
 ```
 npm install
