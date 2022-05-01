@@ -1,4 +1,4 @@
-import { fetchJobsList, fetchNewsList, fetchAskList, fetchUserInfo, fetchItemInfo } from '../api/index.js';
+import { fetchJobsList, fetchNewsList, fetchAskList, fetchUserInfo, fetchItemInfo } from '../api';
 
 export default{
     FETCH_NEWS(context) {

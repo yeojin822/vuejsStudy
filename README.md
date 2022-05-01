@@ -1,5 +1,5 @@
-# vue-news
-
+# Vue-Study
+vue 기초 공부하기
 ## Project setup
 ```
 npm install
